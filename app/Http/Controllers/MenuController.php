@@ -246,3 +246,4 @@ class MenuController extends Controller
         return $pdf->download(Str::random(10) . '.pdf');
     }
 }
+

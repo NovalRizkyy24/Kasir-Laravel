@@ -66,3 +66,4 @@ Route::controller(TransaksiController::class)->group(function () {
         Route::get('/cashier/export/pdf', 'exportPDF');
     });
 });
+

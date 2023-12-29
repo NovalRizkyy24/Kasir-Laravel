@@ -30,9 +30,11 @@
             <div class="container-fluid">
               @yield('page-dashboard')
             </div>
+            <!--
             <footer class="footer text-center">
               &copy; BisaNgopi 2022 - Present
             </footer>
+            -->
         </div>
     </div>
 
